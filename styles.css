@@ -1,0 +1,11 @@
+.center  {
+  text-align: center;
+  color: red;
+}
+
+img.resize {
+  width:540px; 
+  height: auto;
+  float: left;
+  margin: right;
+}
