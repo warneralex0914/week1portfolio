@@ -15,7 +15,7 @@
 
 ## Description
 
- -Weekly independent project showcasing several projects I have been working on
+ -Weekly independent project showcasing several projects I have been working on. [checkout my other repositories](https://github.com/warneralex0914?tab=repositories)
 ## Setup
 
 - Clone this repository to your desktop.
@@ -36,4 +36,5 @@ Copyright (c) 2021 Alex Warner
 ## _Contact Information_
 
 * Alex Warner <warneralex0914@gmail.com>
-* Github page www.github.com/warneralex0914/bengel-care
+* Github page www.github.com/warneralex0914/
+* Link to my other github repositories https://github.com/warneralex0914?tab=repositories

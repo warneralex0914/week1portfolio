@@ -1,0 +1,27 @@
+.center  {
+  text-align: center;
+  color: red;
+  font-family: sans-serif;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  
+}
+
+img.resize {
+  width:540px; 
+  height: auto;
+  float: left;
+  margin: right;
+}
+
+p.border {
+  margin: 12px;
+  border: 8px solid green;
+  padding: 4px;
+  background-color: orange;
+}
+
+.cascading li {
+  color:crimson;
+}
